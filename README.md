@@ -23,3 +23,8 @@ http://bbs.espressif.com/viewtopic.php?f=67&t=225
 * Length	68.6 mm
 * Width	53.3 mm
 * Weight	20g
+
+
+## A4988 Documentation
+https://www.pololu.com/product/1182
+
